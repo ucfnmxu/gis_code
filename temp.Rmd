@@ -34,6 +34,7 @@ library(here)
 jan<-raster(here("wc2.1_5m_tmin_01.tif"))
 # have a look at the raster layer jan
 plot(jan)
+
 ```
 
 
